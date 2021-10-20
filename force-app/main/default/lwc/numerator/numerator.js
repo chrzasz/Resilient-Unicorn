@@ -3,6 +3,11 @@ export default class Numerator extends LightningElement {
 
     @api counter = 0;
 
+    @api
+    maximizeCounter() {
+        this.counter += 1000000;
+    }
+
     handleIncrement() {
         this.counter++;
     }
