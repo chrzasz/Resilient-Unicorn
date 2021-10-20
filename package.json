@@ -1,0 +1,27 @@
+{
+  "name": "event-comms",
+  "version": "1.0.0",
+  "description": "Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.",
+  "main": "jest.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "prettier": "prettier",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrzasz/Resilient-Unicorn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrzasz/Resilient-Unicorn/issues"
+  },
+  "homepage": "https://github.com/chrzasz/Resilient-Unicorn#readme",
+  "devDependencies": {
+    "prettier": "2.4.1",
+    "prettier-plugin-apex": "1.10.0"
+  }
+}
